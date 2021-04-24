@@ -11,7 +11,7 @@ role: Senior Data Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Banque Nationale de Données Maladies Rares
-  url: https://www.stanford.edu/
+  url: https://www.bndmr.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio:  

@@ -27,15 +27,20 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Paris, France
-    date_start: '2021-01-01'
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
 
-        * Analysing
-        * Modelling
-        * Deploying
+        * Built a machine learning algorithm for automatic extraction of clinical information from rare diseases patients’ electronic health records.
 
+        * Conducted epidemiological studies on rare disease patients including the impact of coronavirus and surmortality.
+
+        * Helped building an automated COVID dashboard for AP-HP.
+
+        * Developed tools to anonymize nominative patient data and contributed to build the desindentified research rare disease registry.
+
+        * Implemented a deduplication algorithm using record linkage.
 
 
   - title: Affiliated Staff
@@ -44,7 +49,7 @@ experience:
     company_logo: org-x
     location: Boston, MA
     date_start: '2017-09-01'
-    date_end: '2019-09-31'
+    date_end: '2019-09-01'
     description: |2-
         Responsibilities include:
           * Assisted research work on identifying the neurological basis of autism using MRIs data using statistics and machine learning.

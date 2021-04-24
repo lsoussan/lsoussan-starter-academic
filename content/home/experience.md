@@ -32,15 +32,32 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Built a machine learning algorithm for automatic extraction of clinical information from rare diseases patients’ electronic health records.
+        * Building machine learning algorithms for automatic extraction of clinical information from rare diseases patients’ electronic health records.
 
-        * Conducted epidemiological studies on rare disease patients including the impact of coronavirus and surmortality.
+        * Conducting epidemiological studies on rare disease patients
 
-        * Helped building an automated COVID dashboard for AP-HP.
+        * Developing tools to anonymize nominative patient data and contributing to build the desindentified research rare disease registry.
 
-        * Developed tools to anonymize nominative patient data and contributed to build the desindentified research rare disease registry.
+        * Implemening a deduplication algorithm using record linkage.
 
-        * Implemented a deduplication algorithm using record linkage.
+
+    - title: Biostatistician
+      company: Beth Israel Deaconess Medical Center
+      company_url: ''
+      company_logo: org-x
+      location: Boston, MA
+      date_start: '2017-09-01'
+      date_end: '2019-09-01'
+      description: |2-
+          Responsibilities include:
+
+          * Analyzed Magnetic Resonance Imaging (MRI) data using statistics, machine learning, and deep learning to understand the effects of brain lesions on brain function.
+
+          * Planned and performed the statistical analysis for multiple published research projects.
+
+          * Created a web platform to analyze MRI data enabling the medical doctors and researchers to use state of the art quantitative methods.
+
+          * Maintained and developed the lab computational infrastructures using sys admin and programming tools.
 
 
   - title: Affiliated Staff
@@ -52,6 +69,7 @@ experience:
     date_end: '2019-09-01'
     description: |2-
         Responsibilities include:
+
           * Assisted research work on identifying the neurological basis of autism using MRIs data using statistics and machine learning.
 
           * Created data preprocessing pipelines to build normative datasets from publicly available data using the computational radiology lab infrastructures.

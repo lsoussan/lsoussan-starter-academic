@@ -18,9 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Deep learning
+- Biomedical Informatics
 - Information Retrieval
+- Natural Language Processing
 - Biostatistics
+- Public Health
 
 # Education to show in About widget
 education:

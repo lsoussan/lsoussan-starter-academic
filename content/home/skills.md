@@ -33,11 +33,11 @@ feature:
   icon_pack: fas
   name: Deep Learning
 - description: 10%
-  icon: docker
+  icon: r-project
   icon_pack: fas
   name: Docker
 - description: 10%
-  icon: linux
+  icon: r-project
   icon_pack: fas
   name: Linux
 

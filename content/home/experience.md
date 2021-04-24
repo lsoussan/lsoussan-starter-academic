@@ -36,14 +36,24 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+
+  - title: Affiliated Staff
+    company: Boston Children Hospital
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Boston, MA
+    date_start: '2017-09-01'
+    date_end: '2019-09-31'
+    description: |2-
+        Responsibilities include:
+          * Assisted research work on identifying the neurological basis of autism using MRIs data using statistics and machine learning.
+
+          * Created data preprocessing pipelines to build normative datasets from publicly available data using the computational radiology lab infrastructures.
+
+          * Built Dockers and singularity containers to deploy lab software solutions on BCH, Harvard Medical School, and Harvard Faculty of Art and Science high-performance clusters.
+
+
 
 design:
   columns: '2'

@@ -28,7 +28,18 @@ feature:
   icon: python
   icon_pack: fas
   name: Python
-
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Deep Learning
+- description: 10%
+  icon: z
+  icon_pack: fas
+  name: Docker
+- description: 10%
+  icon: linux
+  icon_pack: fas
+  name: Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

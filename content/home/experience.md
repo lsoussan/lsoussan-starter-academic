@@ -70,11 +70,11 @@ experience:
     description: |2-
         Responsibilities include:
 
-          * Assisted research work on identifying the neurological basis of autism using MRIs data using statistics and machine learning.
+        * Assisted research work on identifying the neurological basis of autism using MRIs data using statistics and machine learning.
 
-          * Created data preprocessing pipelines to build normative datasets from publicly available data using the computational radiology lab infrastructures.
+        * Created data preprocessing pipelines to build normative datasets from publicly available data using the computational radiology lab infrastructures.
 
-          * Built Dockers and singularity containers to deploy lab software solutions on BCH, Harvard Medical School, and Harvard Faculty of Art and Science high-performance clusters.
+        * Built Dockers and singularity containers to deploy lab software solutions on BCH, Harvard Medical School, and Harvard Faculty of Art and Science high-performance clusters.
 
 
 

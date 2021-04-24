@@ -22,45 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Data Scientist
-    company: Banque Nationale de Données Maladies Rares
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Paris, France
-    date_start: '2021-06-15'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
 
-        * Built a machine learning algorithm for automatic extraction of clinical information from rare diseases patients’ electronic health records.
+        * Analysing
+        * Modelling
+        * Deploying
 
-        * Conducted epidemiological studies on rare disease patients including the impact of coronavirus and surmortality.
-
-        * Helped building an automated COVID dashboard for AP-HP.
-
-        * Developed tools to anonymize nominative patient data and contributed to build the desindentified research rare disease registry.
-
-        * Implemented a deduplication algorithm using record linkage.
-
-
-
-  - title: emiconductor Physics
+  - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: |2-
-      Responsibilities included:
-
-    * Analyzed Magnetic Resonance Imaging (MRI) data using statistics, machine learning, and deep learning to understand the effects of brain lesions on brain function.
-
-    * Planned and performed the statistical analysis for multiple published research projects.
-
-    * Created a web platform to analyze MRI data enabling the medical doctors and researchers to use state of the art quantitative methods.
-
-    * Maintained and developed the lab computational infrastructures using sys admin and programming tools.
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

@@ -41,23 +41,23 @@ experience:
         * Implemening a deduplication algorithm using record linkage.
 
 
-    - title: Biostatistician
-      company: Beth Israel Deaconess Medical Center
-      company_url: ''
-      company_logo: org-x
-      location: Boston, MA
-      date_start: '2017-09-01'
-      date_end: '2019-09-01'
-      description: |2-
-          Responsibilities include:
+  - title: Biostatistician
+    company: Beth Israel Deaconess Medical Center
+    company_url: ''
+    company_logo: org-x
+    location: Boston, MA
+    date_start: '2017-09-01'
+    date_end: '2019-09-01'
+    description: |2-
+        Responsibilities include:
 
-          * Analyzed Magnetic Resonance Imaging (MRI) data using statistics, machine learning, and deep learning to understand the effects of brain lesions on brain function.
+        * Analyzed Magnetic Resonance Imaging (MRI) data using statistics, machine learning, and deep learning to understand the effects of brain lesions on brain function.
 
-          * Planned and performed the statistical analysis for multiple published research projects.
+        * Planned and performed the statistical analysis for multiple published research projects.
 
-          * Created a web platform to analyze MRI data enabling the medical doctors and researchers to use state of the art quantitative methods.
+        * Created a web platform to analyze MRI data enabling the medical doctors and researchers to use state of the art quantitative methods.
 
-          * Maintained and developed the lab computational infrastructures using sys admin and programming tools.
+        * Maintained and developed the lab computational infrastructures using sys admin and programming tools.
 
 
   - title: Affiliated Staff

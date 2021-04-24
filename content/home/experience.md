@@ -77,6 +77,23 @@ experience:
         * Built Dockers and singularity containers to deploy lab software solutions on BCH, Harvard Medical School, and Harvard Faculty of Art and Science high-performance clusters.
 
 
+  - title: Research Student
+    company: Dana-Farber Cancer Institute
+    company_url: ''
+    company_logo: org-x
+    location: Boston, MA
+    date_start: '2013-07-01'
+    date_end: '2015-05-01'
+    description: |2-
+        Responsibilities include:
+
+        * Created an R data package on different cancers’ risks and incidences using data from published literature on patients with genetic risks.
+
+        * Developed a web-based interface using R shiny and a search engine to navigate the database.
+
+        * Contributed to an exhaustive literature review of lifetime risk of genetic inheritance to cancer.
+
+
 
 design:
   columns: '2'

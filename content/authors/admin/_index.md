@@ -14,7 +14,7 @@ organizations:
   url: https://www.bndmr.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior data scientist currently working at the French registry on rare diseases working on building an information retrieval algorithms to facilitate extraction of information from electronic health records and facilitate the work of medical doctors entering data into the registry. Previously, I used to work with Alex Cohen and Mike Fox in Boston  leveraging fMRI data to better understand how damage to specialized neural networks can trigger neurological diseases.
+bio: I am a data scientist currently working on building an
 
 
 
@@ -68,4 +68,9 @@ email: "louisasoussand@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+I am a senior data scientist currently working at the French registry on rare diseases working on building an information retrieval algorithms to facilitate information extraction from electronic health records and facilitate the work of medical doctors entering data into the registry. Previously, I used to work with Alex Cohen and Mike Fox in Boston on leveraging fMRI data to better understand how damage to specialized neural networks can trigger neurological diseases.
+
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

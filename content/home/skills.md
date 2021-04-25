@@ -31,7 +31,7 @@ feature:
 - description:
   icon: camera-retro
   icon_pack: fas
-  name: Deep Learning
+  name: Machine Learning
 - description:
   icon: docker
   icon_pack: fas

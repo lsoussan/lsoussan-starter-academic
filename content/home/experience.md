@@ -25,7 +25,7 @@ experience:
   - title: Senior Data Scientist
     company: Banque Nationale de Données Maladies Rares
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-APHP
     location: Paris, France
     date_start: '2020-06-01'
     date_end: ''
@@ -36,15 +36,13 @@ experience:
 
         * Conducting epidemiological studies on rare disease patients
 
-        * Developing tools to anonymize nominative patient data and contributing to build the desindentified research rare disease registry.
-
-        * Implemening a deduplication algorithm using record linkage.
+        * Developing tools to anonymize nominative patient data and building a widely accessible desindentified research rare disease registry usable by all researchers.
 
 
   - title: Biostatistician
     company: Beth Israel Deaconess Medical Center
     company_url: ''
-    company_logo: org-x
+    company_logo: org-BIDMC
     location: Boston, MA
     date_start: '2017-09-01'
     date_end: '2019-09-01'
@@ -63,7 +61,7 @@ experience:
   - title: Affiliated Staff
     company: Boston Children Hospital
     company_url: ''
-    company_logo: org-x
+    company_logo: org-BCH
     location: Boston, MA
     date_start: '2017-09-01'
     date_end: '2019-09-01'
@@ -80,7 +78,7 @@ experience:
   - title: Research Student
     company: Dana-Farber Cancer Institute
     company_url: ''
-    company_logo: org-x
+    company_logo: org-DFCI
     location: Boston, MA
     date_start: '2013-07-01'
     date_end: '2015-05-01'

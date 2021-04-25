@@ -26,19 +26,19 @@ feature:
   name: Statistics
 - description:
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description:
-  icon: camera-retro
+  icon: server
   icon_pack: fas
   name: Machine Learning
 - description:
   icon: docker
-  icon_pack: fas
+  icon_pack: fab
   name: Docker
 - description:
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
 
 # Uncomment to use emoji icons.

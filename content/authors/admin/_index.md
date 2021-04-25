@@ -14,13 +14,15 @@ organizations:
   url: https://www.bndmr.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: I am a senior data scientist currently working at the French registry on rare diseases working on building an information retrieval algorithms to facilitate extraction of information from electronic health records and facilitate the work of medical doctors entering data into the registry. Previously, I used to work with Alex Cohen and Mike Fox in Boston  leveraging fMRI data to better understand how damage to specialized neural networks can trigger neurological diseases.
+
+
 
 # Interests to show in About widget
 interests:
-- Deep learning
-- Information Retrieval
+- Natural Language Processing
 - Biostatistics
+- Public Health
 
 # Education to show in About widget
 education:

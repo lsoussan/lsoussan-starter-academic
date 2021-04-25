@@ -23,12 +23,12 @@ twitter: ''
 email: louisasoussand@gmail.com
 address:
   city: Paris
-  country: France
+  region: France
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Lsoussand'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Lsoussand'
 # Site header
 
 main_menu:

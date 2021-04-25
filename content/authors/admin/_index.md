@@ -69,7 +69,7 @@ email: "louisasoussand@gmail.com"
 highlight_name: false
 ---
 
-I am a senior data scientist currently working at the French registry on rare diseases working on building an information retrieval algorithms to facilitate information extraction from electronic health records and facilitate the work of medical doctors entering data into the registry. Previously, I used to work with Alex Cohen and Mike Fox in Boston on leveraging fMRI data to better understand how damage to specialized neural networks can trigger neurological diseases.
+I am a senior data scientist currently working at the French registry on rare diseases working on building an information extraction algorithms from electronic health records to facilitate the work of medical doctors entering data into the registry. Previously, I used to work with Alex Cohen and Mike Fox in Boston on leveraging fMRI data to better understand how damage to specialized neural networks can trigger neurological diseases.
 
 
 

@@ -25,7 +25,7 @@ experience:
   - title: Senior Data Scientist
     company: Banque Nationale de Données Maladies Rares
     company_url: ''
-    company_logo: org-APHP
+    company_logo: ''
     location: Paris, France
     date_start: '2020-06-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Biostatistician
     company: Beth Israel Deaconess Medical Center
     company_url: ''
-    company_logo: org-BIDMC
+    company_logo: ''
     location: Boston, MA
     date_start: '2017-09-01'
     date_end: '2019-09-01'
@@ -61,7 +61,7 @@ experience:
   - title: Affiliated Staff
     company: Boston Children Hospital
     company_url: ''
-    company_logo: org-BCH
+    company_logo: ''
     location: Boston, MA
     date_start: '2017-09-01'
     date_end: '2019-09-01'
@@ -78,7 +78,7 @@ experience:
   - title: Research Student
     company: Dana-Farber Cancer Institute
     company_url: ''
-    company_logo: org-DFCI
+    company_logo: ''
     location: Boston, MA
     date_start: '2013-07-01'
     date_end: '2015-05-01'

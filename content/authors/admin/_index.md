@@ -6,23 +6,23 @@ title: Louis Soussand
 superuser: true
 
 # Role/position/tagline
-role: Senior Data Scientist
+role: Chief Technology Officer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Banque Nationale de Données Maladies Rares
-  url: https://www.bndmr.fr/
+- name: Mountain Core Technologies
+  url: https://www.mountaincoretechnologies.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a data scientist currently working on building an
+bio: Former data scientist and researcher now working on tech projects
 
 
 
 # Interests to show in About widget
 interests:
-- Natural Language Processing
-- Biostatistics
-- Public Health
+- Spatio-temporal Data
+- Software Development
+- Cybersecurity
 
 # Education to show in About widget
 education:

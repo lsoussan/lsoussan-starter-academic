@@ -28,7 +28,11 @@ experience:
     company_logo: ''
     date_start: '2023-08-01'
     date_end: ''
-
+    description: |2-
+        * Développement d’une plateforme d’IA documentaire pour l’extraction et la validation de documents patrimoniaux.
+        * Conception d’outils OCR/NLP pour l’automatisation de workflows financiers.
+        * Développement d’une application de suivi et d’accompagnement en kinésithérapie.
+        * Création de pipelines de données et systèmes backend pour applications santé et IA.
 
   - title: Senior Data Scientist
     company: Assistance Publique - Hopitaux de Paris
@@ -38,13 +42,10 @@ experience:
     date_start: '2020-06-15'
     date_end: '2023-07-31'
     description: |2-
-        Responsibilities include:
+      * Développement de pipelines NLP et machine learning pour l’extraction d’informations cliniques à partir de dossiers médicaux électroniques.
+      * Conception d’outils de pseudonymisation et de rapprochement d’identités pour données de santé.
+      * Réalisation d’études épidémiologiques et contribution au développement d’outils de suivi COVID pour l’AP-HP.
 
-        * Building machine learning algorithms for automatic extraction of clinical information from rare diseases patients’ electronic health records.
-
-        * Conducting epidemiological studies on rare disease patients
-
-        * Developing tools to anonymize nominative patient data and building a widely accessible desindentified research rare disease registry usable by all researchers.
 
 
   - title: Biostatistician
@@ -55,15 +56,8 @@ experience:
     date_start: '2017-09-01'
     date_end: '2019-09-01'
     description: |2-
-        Responsibilities include:
-
-        * Analyzed Magnetic Resonance Imaging (MRI) data using statistics, machine learning, and deep learning to understand the effects of brain lesions on brain function.
-
-        * Planned and performed the statistical analysis for multiple published research projects.
-
-        * Created a web platform to analyze MRI data enabling the medical doctors and researchers to use state of the art quantitative methods.
-
-        * Maintained and developed the lab computational infrastructures using sys admin and programming tools.
+      * Analyse de données IRM par méthodes statistiques, machine learning et deep learning.
+      * Développement d’une plateforme web d’analyse de données IRM à destination des médecins et chercheurs.
 
 
   - title: Affiliated Staff
@@ -74,13 +68,10 @@ experience:
     date_start: '2017-09-01'
     date_end: '2019-09-01'
     description: |2-
-        Responsibilities include:
+       * Participation à des travaux de recherche sur les bases neurologiques de l’autisme à partir de données IRM.
+       * Développement de pipelines de prétraitement et de constitution de jeux de données de référence.
+       * Déploiement d’environnements logiciels via Docker et Singularity sur clusters HPC.
 
-        * Assisted research work on identifying the neurological basis of autism using MRIs data using statistics and machine learning.
-
-        * Created data preprocessing pipelines to build normative datasets from publicly available data using the computational radiology lab infrastructures.
-
-        * Built Dockers and singularity containers to deploy lab software solutions on BCH, Harvard Medical School, and Harvard Faculty of Art and Science high-performance clusters.
 
 
   - title: Research Student
@@ -91,13 +82,9 @@ experience:
     date_start: '2013-07-01'
     date_end: '2015-05-01'
     description: |2-
-        Responsibilities include:
 
-        * Created an R data package on different cancers’ risks and incidences using data from published literature on patients with genetic risks.
-
-        * Developed a web-based interface using R shiny and a search engine to navigate the database.
-
-        * Contributed to an exhaustive literature review of lifetime risk of genetic inheritance to cancer.
+        * Développement d’un package R dédié à l’analyse des risques génétiques de cancers.
+        * Contribution à une revue systématique de littérature sur les risques héréditaires de cancer.
 
 
 

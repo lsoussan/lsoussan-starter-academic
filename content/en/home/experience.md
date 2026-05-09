@@ -28,6 +28,11 @@ experience:
     company_logo: ''
     date_start: '2023-08-01'
     date_end: ''
+    description: |2-
+        * Developed OCR and NLP pipelines for automated extraction and validation of financial and wealth management documents.
+        * Designed reliability scoring and document validation systems for financial workflows.
+        * Built mobile and backend applications for therapeutic follow-up and rehabilitation support.
+        * Developed end-to-end data pipelines and infrastructure for AI-driven applications in healthcare and finance.
 
 
   - title: Senior Data Scientist

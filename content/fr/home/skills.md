@@ -17,29 +17,30 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: brain
+  icon_pack: fas
+  name: Data Science & Machine Learning
 - description:
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: NLP & Document Intelligence
 - description:
-  icon: python
-  icon_pack: fab
-  name: Python
+  icon: cloud
+  icon_pack: fas
+  name: Infrastructure & Deployement
 - description:
   icon: server
   icon_pack: fas
-  name: Machine Learning
+  name: Backend & Data Pipelines
 - description:
-  icon: docker
-  icon_pack: fab
-  name: Docker
+  icon: mobile-alt
+  icon_pack: fas
+  name: Mobile Applications
 - description:
-  icon: linux
-  icon_pack: fab
-  name: Linux
+  icon_pack: fas
+  icon: code
+  name: Python, R, Bash, Javascript, Flutter
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

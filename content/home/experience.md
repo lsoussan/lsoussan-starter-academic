@@ -26,7 +26,7 @@ experience:
     company: Leutaz Lab
     company_url: 'https://leutazlab.com'
     company_logo: ''
-    date_start: '2023'
+    date_start: '2023-08-01'
     date_end: 'Present'
 
 
@@ -35,8 +35,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Paris, France
-    date_start: '2020'
-    date_end: '2023'
+    date_start: '2020-06-15'
+    date_end: '2023-07-31'
     description: |2-
         Responsibilities include:
 

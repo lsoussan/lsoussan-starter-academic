@@ -16,13 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Je travaille sur des systèmes data et IA de bout en bout, depuis les pipelines d’acquisition et de traitement de données jusqu’aux applications intelligentes dans les domaines de la santé et de la finance.
 
-Mon activité combine machine learning, traitement automatique du langage, ingénierie d’infrastructure et développement produit, avec une expérience couvrant les plateformes de données cliniques, l’intelligence documentaire, les applications mobiles et les systèmes de recherche. J’ai notamment développé des pipelines NLP pour l’extraction d’informations structurées à partir de dossiers médicaux électroniques, conçu des systèmes de traitement et de validation documentaire pour des workflows financiers, et développé des applications intégrant services backend, pipelines de données et interfaces utilisateurs.
-
-Je suis fondateur de Leutaz Lab, où je développe des produits et systèmes d’IA appliquée pour la santé et la finance, notamment autour de l’intelligence documentaire, de l’automatisation de workflows et des applications de suivi thérapeutique.
-
-Auparavant, j’ai travaillé à l’AP-HP / BNDMR, au Beth Israel Deaconess Medical Center et au Boston Children’s Hospital sur des projets de NLP clinique, de neuroimagerie, de machine learning et d’infrastructure de données. J’ai étudié les statistiques et la data science à l’Université du Michigan.
-
-
 
 
 # Interests to show in About widget

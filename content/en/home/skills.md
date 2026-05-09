@@ -37,7 +37,8 @@ feature:
   icon_pack: fab
   name: Mobile Applications
 - description:
-  icon_pack: code
+  icon_pack: fab
+  icon: code
   name: Python, R, Bash, Javascript, Flutter
 
 

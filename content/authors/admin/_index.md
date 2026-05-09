@@ -66,6 +66,6 @@ email: "louisasoussand@gmail.com"
 highlight_name: false
 ---
 
-
+I build end-to-end data and AI systems, from large-scale acquisition pipelines to intelligent applications in healthcare and finance.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

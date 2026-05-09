@@ -35,11 +35,23 @@ feature:
 - description:
   icon: docker
   icon_pack: fab
-  name: Docker
+  name: Docker & Kubernetes
+- description:
+  icon: cloud
+  icon_pack: fab
+  name: Terraform & Infrastructure
 - description:
   icon: linux
   icon_pack: fab
-  name: Linux
+  name: Linux & HPC
+-description:
+  icon: code-branch
+  icon_pack: fas
+  name: CI/CD
+-description:
+  icon: mobile
+  icon_pack: fas
+  name: Flutter
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -20,9 +20,9 @@ bio: I build end-to-end data and AI systems, from large-scale acquisition pipeli
 
 # Interests to show in About widget
 interests:
-- Spatio-temporal Data
-- Software Development
-- Cybersecurity
+- Applied AI Systems
+- NLP & Document Intelligence
+- Healthcare and Financial Data
 
 # Education to show in About widget
 education:

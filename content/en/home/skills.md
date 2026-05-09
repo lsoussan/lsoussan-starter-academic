@@ -16,30 +16,43 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description:
-  icon: python
-  icon_pack: fab
-  name: Python
-- description:
-  icon: server
-  icon_pack: fas
-  name: Machine Learning
-- description:
-  icon: docker
-  icon_pack: fab
-  name: Docker
-- description:
-  icon: linux
-  icon_pack: fab
-  name: Linux
+
+name: Python
+icon: python
+icon_pack: fab
+name: R
+icon: r-project
+icon_pack: fab
+name: NLP & Document AI
+icon: file-alt
+icon_pack: fas
+name: Machine Learning
+icon: brain
+icon_pack: fas
+name: Statistics
+con: chart-line
+icon_pack: fas
+name: Backend & APIs
+icon: server
+icon_pack: fas
+name: Mobile Applications
+icon: mobile-alt
+icon_pack: fas
+name: Docker & Kubernetes
+icon: docker
+icon_pack: fab
+name: Terraform & Infrastructure
+icon: cloud
+icon_pack: fas
+name: Linux & HPC
+icon: linux
+icon_pack: fab
+name: CI/CD
+icon: code-branch
+icon_pack: fas
+name: Flutter
+icon: mobile
+icon_pack: fas
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -27,7 +27,7 @@ experience:
     company_url: 'https://leutazlab.com'
     company_logo: ''
     date_start: '2023-08-01'
-    date_end: 'Present'
+    date_end: ''
 
 
   - title: Senior Data Scientist

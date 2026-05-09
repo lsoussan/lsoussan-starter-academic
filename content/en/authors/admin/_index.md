@@ -66,6 +66,12 @@ email: "louisasoussand@gmail.com"
 highlight_name: false
 ---
 
-I build end-to-end data and AI systems, from large-scale acquisition pipelines to intelligent applications in healthcare and finance.
+I work on end-to-end data and AI systems, from large-scale data acquisition and processing pipelines to intelligent applications in healthcare and finance.
+
+My work combines machine learning, natural language processing, infrastructure engineering, and product development, with experience spanning clinical data platforms, document intelligence, mobile applications, and research systems. I have developed NLP pipelines for extracting structured information from electronic health records, designed document processing and validation systems for financial workflows, and built applications integrating backend services, data pipelines, and user-facing interfaces.
+
+I am the founder of Leutaz Lab, where I develop applied AI products and systems for healthcare and finance, particularly around document intelligence, workflow automation, and therapeutic follow-up applications.
+
+Previously, I worked at AP-HP / BNDMR, Beth Israel Deaconess Medical Center, and Boston Children’s Hospital on projects involving clinical NLP, neuroimaging, machine learning, and data infrastructure. I studied statistics and data science at the University of Michigan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

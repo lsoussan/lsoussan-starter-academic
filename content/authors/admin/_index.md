@@ -6,15 +6,15 @@ title: Louis Soussand
 superuser: true
 
 # Role/position/tagline
-role: Chief Technology Officer
+role: Lead Data Scientist · Data Systems & AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mountain Core Technologies
-  url: https://www.mountaincoretechnologies.com/
+- name: Leutaz Lab
+  url: https://www.leutazlab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Former data scientist and researcher now working on tech projects
+bio: I build end-to-end data and AI systems, from large-scale acquisition pipelines to intelligent applications in healthcare and finance.
 
 
 
@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Lsoussand
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=vpJEjSkAAAAJ&hl=en&oi=ao
@@ -68,8 +65,6 @@ email: "louisasoussand@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-After a few years working in research and public health between the French registry on rare diseases and neurology department in Boston, I am now working on my own projects. I am reachable for research and consulting.
 
 
 

@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Founder & Lead Data Scientist
+    company: Leutaz Lab
+    company_url: 'https://leutazlab.com'
+    company_logo: ''
+    date_start: '2023'
+    date_end: 'Present'
+
+
   - title: Senior Data Scientist
-    company: Banque Nationale de Données Maladies Rares
+    company: Assistance Publique - Hopitaux de Paris
     company_url: ''
     company_logo: ''
     location: Paris, France
-    date_start: '2020-06-01'
-    date_end: ''
+    date_start: '2020'
+    date_end: '2023'
     description: |2-
         Responsibilities include:
 

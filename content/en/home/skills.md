@@ -26,7 +26,7 @@ feature:
   name: NLP & Document Intelligence
 - description:
   icon: cloud
-  icon_pack: fab
+  icon_pack: fas
   name: Infrastructure & Deployement
 - description:
   icon: server
@@ -34,10 +34,10 @@ feature:
   name: Backend & Data Pipelines
 - description:
   icon: mobile-alt
-  icon_pack: fab
+  icon_pack: fas
   name: Mobile Applications
 - description:
-  icon_pack: fab
+  icon_pack: fas
   icon: code
   name: Python, R, Bash, Javascript, Flutter
 

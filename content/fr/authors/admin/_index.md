@@ -14,15 +14,15 @@ organizations:
   url: https://www.leutazlab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Je travaille sur des systèmes data et IA de bout en bout, depuis les pipelines d’acquisition et de traitement de données jusqu’aux applications intelligentes dans les domaines de la santé et de la finance.
+bio: Je travaille sur des systèmes data et IA complets, depuis les pipelines d’acquisition et de traitement de données jusqu’aux applications intelligentes dans les domaines de la santé et de la finance.
 
 
 
 # Interests to show in About widget
 interests:
-- Spatio-temporal Data
-- Software Development
-- Cybersecurity
+- Systèmes d'Intelligence Artificielle Appliqué
+- Traitement Automatique du Langage & Intelligence Documentaire
+- Données de santé et données financières
 
 # Education to show in About widget
 education:
@@ -66,7 +66,7 @@ email: "louisasoussand@gmail.com"
 highlight_name: false
 ---
 
-Je travaille sur des systèmes data et IA de bout en bout, depuis les pipelines d’acquisition et de traitement de données jusqu’aux applications intelligentes dans les domaines de la santé et de la finance.
+Je travaille sur des systèmes data et IA complets, depuis les pipelines d’acquisition et de traitement de données jusqu’aux applications intelligentes dans les domaines de la santé et de la finance.
 
 Mon activité combine machine learning, traitement automatique du langage, ingénierie d’infrastructure et développement produit, avec une expérience couvrant les plateformes de données cliniques, l’intelligence documentaire, les applications mobiles et les systèmes de recherche. J’ai notamment développé des pipelines NLP pour l’extraction d’informations structurées à partir de dossiers médicaux électroniques, conçu des systèmes de traitement et de validation documentaire pour des workflows financiers, et développé des applications intégrant services backend, pipelines de données et interfaces utilisateurs.
 

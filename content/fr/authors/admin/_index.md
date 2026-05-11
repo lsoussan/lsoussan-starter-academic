@@ -72,6 +72,6 @@ Mon activité combine machine learning, traitement automatique du langage, ingé
 
 Je suis fondateur de Leutaz Lab, où je développe des produits et systèmes d’IA appliquée pour la santé et la finance, notamment autour de l’intelligence documentaire, de l’automatisation de workflows et des applications de suivi thérapeutique.
 
-Auparavant, j’ai travaillé à l’AP-HP / BNDMR, au Beth Israel Deaconess Medical Center et au Boston Children’s Hospital sur des projets de NLP clinique, de neuroimagerie, de machine learning et d’infrastructure de données. J’ai étudié les statistiques et la data science à l’Université du Michigan.
+Auparavant, j’ai travaillé à l’AP-HP / BNDMR, au Beth Israel Deaconess Medical Center et au Boston Children’s Hospital sur des projets de NLP clinique, de neuroimagerie, de machine learning et d’infrastructure de données. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Louis Soussand - CV - FR.pdf" "newtab" >}}resumé{{< /staticref >}}.
